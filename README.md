@@ -7,6 +7,7 @@
 - [✨ How to run the project](#-how-to-run-the-project)
 - [🔧 Libraries](#-libraries)
 - [🔥 The power of react three fiber](#-the-power-of-react-three-fiber)
+- [💘 Slides](#-slides)
 - [📓 Bibliography](#-bibliography)
 
 ## ✨ How to run the project
@@ -28,6 +29,10 @@
 | With Three.js               | With React Three Fiber      |
 | --------------------------- | --------------------------- |
 | ![image](docs/images/1.png) | ![image](docs/images/2.png) |
+
+## 💘 Slides
+
+[Go to the slides](https://docs.google.com/presentation/d/1ow8U7SRe4AkM7WAIh9OfcQnCWOvE-8f6tdiuDvHzKNs/edit?usp=sharing)
 
 ## 📓 Bibliography
 
