@@ -3,7 +3,7 @@ import { useBox } from "@react-three/cannon";
 const Cube = ({ position, args, color, wireframe = false, ...props }) => {
   /* Physics
     const [ref] = useBox(() => ({
-      type: 'Static',
+      type: 'Dynamic',
       mass: 1,
       position,
       args,
